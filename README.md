@@ -26,22 +26,27 @@ Additionally, the integration of Artificial Intelligence enhances the system by 
 ```
 ## Literature review
 ```
-Discuss existing solutions, research papers,
-or technologies related to your project.
+Existing platforms like Amazon and Flipkart provide product prices but do not support cross-platform comparison. Websites such as Smartprix and BuyHatke offer comparison features, but are mainly limited to specific categories like electronics.
+Similarly, food delivery apps like Zomato and Swiggy do not allow direct comparison of the same food item across platforms.
+Therefore, there is a need for a system that combines multi-category price comparison with AI-based recommendations to provide better and smarter decision-making.
 ```
 
 ## Methodology
 ```
-Explain how your system works.(100 words)
+Data Collection – Collect price data from platforms like Zomato, Swiggy, Amazon, Flipkart
+Data Storage – Store data in database
+Processing – Clean and organize data
+Comparison – Compare prices and find lowest
+AI Analysis – Recommend best option
 ```
 
 
 ## implementation
 ```
-Provide technical details:
-Programming languages
-Frameworks/libraries
-Tools used
+Frontend: Built using HTML, CSS, and JavaScript for user interface
+Backend: Developed using Python (Flask) or Node.js for processing
+Database: MySQL/SQLite to store product and price data
+AI Module: Uses machine learning for recommendations
 ```
 
 ## Results and Discussion
