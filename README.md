@@ -1,15 +1,17 @@
-# Project Title
+# AI-Powered Smart Price Comparison System
 ```
-Author(s): Your Name(s)
-Affiliation: Your University / Organization
-Date: Month Year
+Author(s):mahak ashtankar
+Affiliation: RTMNU
+Date: 2026
 ```
 
 ## Abstract
 ```
-This repository presents a brief summary of the project, 
-including the problem statement, methodology, and results. 
-Keep it concise (150–250 words).
+The AI-Powered Smart Price Comparison System is designed to help users compare prices of food and products
+across platforms like Zomato, Swiggy, Amazon, and Flipkart.
+It provides users with the most affordable options in one place and enhances decision-making
+using AI features like recommendation systems, price prediction, and budget planning.
+The system includes unique functionalities such as Cook vs Order comparison and Smart Cart optimization.
 ```
 
 ## introduction
