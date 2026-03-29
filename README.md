@@ -16,9 +16,13 @@ The system includes unique functionalities such as Cook vs Order comparison and 
 
 ## introduction
 ```
-Describe the background, motivation,
-and objectives of the project. 
-Explain why the problem is important.
+he AI-Powered Smart Price Comparison System is a web-based application designed to help users compare prices of food and
+ multi-category products across multiple online platforms such as Zomato, Swiggy, Amazon, and Flipkart.
+With the rapid growth of e-commerce and online food delivery services, users often face difficulty in identifying the best
+ deals due to price variations across platforms. This system addresses this problem by collecting and comparing prices in one place.
+
+Additionally, the integration of Artificial Intelligence enhances the system by providing personalized recommendations,
+ budget-based suggestions, and smart decision-making support.
 ```
 ## Literature review
 ```
