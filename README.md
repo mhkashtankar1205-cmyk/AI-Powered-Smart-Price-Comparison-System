@@ -6,26 +6,19 @@ Date: 2026
 
 ---
 
-## 📄 Abstract
-The AI-Powered Smart Price Comparison System is a web-based platform designed to help users compare prices of food and products across multiple platforms such as Zomato, Swiggy, Amazon, and Flipkart.  
+## 📄 Abstract  
 
-The system aggregates pricing data and presents users with the most cost-effective options in a unified interface. It enhances decision-making through AI-driven features including personalized recommendations, price trend prediction, and budget optimization.  
+This project presents an AI-Based Smart Food and Product Comparison System that helps users make better purchasing decisions. It compares food options from platforms like Zomato and Swiggy, as well as products from Amazon and Flipkart.
 
-Additionally, unique functionalities such as **Cook vs Order Comparison** and **Smart Cart Optimization** allow users to evaluate whether cooking at home is more economical than ordering food, and to optimize their purchases within a defined budget.
-
+The system uses AI to recommend the cheapest option, healthiest food, and best value product, along with a special student budget mode. This reduces time, saves money, and improves decision-making by providing smart, personalized suggestions in one platform.
 ---
 
 ## 📌 Introduction
-The AI-Powered Smart Price Comparison System is developed to address the growing challenge of price inconsistency across e-commerce and food delivery platforms.  
+With the rapid growth of online platforms like Zomato, Swiggy, Amazon, and Flipkart, users have multiple options for ordering food and purchasing products. However, comparing prices, quality, and reviews across these platforms is time-consuming and often confusing.
 
-With the rapid expansion of online services like Zomato, Swiggy, Amazon, and Flipkart, users often struggle to identify the best deals due to fragmented pricing information. Switching between multiple apps is inefficient and time-consuming.  
+Most users switch between different apps to find the best deal, but there is no single system that provides smart and personalized recommendations based on budget, health, and preferences. This leads to inefficient decision-making and unnecessary spending.
 
-This system solves the problem by aggregating and comparing prices from different platforms in a single interface.  
-
-Furthermore, the integration of Artificial Intelligence enhances user experience by:
-- Providing personalized product and food recommendations  
-- Suggesting options based on user budget  
-- Supporting smart and data-driven decision-making  
+The AI-Based Smart Food and Product Comparison System aims to solve this problem by integrating comparison features into one platform. Using artificial intelligence, it analyzes user preferences and available options to recommend the best choices, making the process faster, smarter, and more efficient.
 
 ---
 
